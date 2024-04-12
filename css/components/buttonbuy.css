@@ -1,0 +1,26 @@
+.btn-buy {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: lighter;
+	font-size: 30px;
+	padding-right: 30px;
+}
+
+#btn-mclaren {
+	background-color: #9d0208;
+	color: #f8f9fa;
+}
+
+#btn-mercedes {
+	background-color: #252422 ;
+	color: #06d6a0;
+}
+
+
+#btn-ferrari {
+	background-color: #d00000;
+	color: #fdc500;
+}
+
